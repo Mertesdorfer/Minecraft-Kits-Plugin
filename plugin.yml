@@ -1,0 +1,7 @@
+main: de.arvnar.kits.main.Main
+name: Kits
+version: 1.0
+author: Arvnar
+commands:
+ kit:
+ showkit:
